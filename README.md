@@ -1,7 +1,7 @@
 # Firebase Chat App with React
 
-![App Screenshot](/path/to/324.png)
-![App Screenshot](/path/to/325.png)
+![App Screenshot](324.png)
+![App Screenshot](325.png)
 
 This is a simple chat application built using React and Firebase Realtime Database.
 
